@@ -5,7 +5,7 @@
 
 For decades, the legal system and psychological community were under the misconception that eyewitness confidence was (at best) only weakly related to identification accuracy, leading to many wrongful convictions. The challenge was to define the precise **pristine conditions** under which eyewitness memory is highly reliable, transforming it from a contested piece of evidence into a valuable forensic tool.
 
-This book chapter leveraged **Signal Detection Theory** and a comprehensive review of lab and field data, establishing the new scientific consensus: **Initial confidence is highly reliable, but only if tested immediately and without contamination**.
+This book chapter leveraged **Signal Detection Theory** and a comprehensive review of lab and field data, contributing to the new scientific consensus: **Initial confidence is highly reliable, but only if tested immediately and without contamination**.
 
 ---
 
